@@ -1,4 +1,4 @@
-module github.com/rl67/slquotes
+module github.com/rl67/slquote.git
 
 go 1.17
 
