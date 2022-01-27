@@ -2,6 +2,6 @@ package slquote
 
 import "rsc.io/quote"
 
-func SlOpt() {
+func SlOpt() (string) {
 	return "quote.Opt()"
 }
